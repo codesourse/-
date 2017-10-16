@@ -12,4 +12,8 @@ runtime 分析报告 https://github.com/iSECPartners/Introspy-Analyzer
 
 注入重签名改名字 https://github.com/codesourse/iInjection
 
+注入工具 https://github.com/KJCracks/yololib/releases
+
+注入工具 https://github.com/Tyilo/insert_dylib
+
 

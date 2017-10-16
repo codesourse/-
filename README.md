@@ -10,4 +10,6 @@ runtime 分析报告 https://github.com/iSECPartners/Introspy-Analyzer
 
 砸壳 https://github.com/KJCracks/Clutch
 
+注入重签名改名字 https://github.com/codesourse/iInjection
+
 
